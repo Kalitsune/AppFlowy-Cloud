@@ -1,3 +1,4 @@
+# ⚠️  The PR associated with this repository has been merged. This repository in now archived, please contribute to the parent repo!
 <p align="center">
   <img src="assets/logos/appflowy_logo.svg"  width="500" height="200" />
 </p>
